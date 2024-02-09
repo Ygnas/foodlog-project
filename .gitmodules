@@ -1,0 +1,6 @@
+[submodule "FoodLog"]
+	path = FoodLog
+	url = git@github.com:Ygnas/FoodLog.git
+[submodule "FoodLog-Flutter"]
+	path = FoodLog-Flutter
+	url = git@github.com:Ygnas/FoodLog-Flutter.git
